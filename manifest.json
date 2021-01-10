@@ -1,11 +1,11 @@
 {
-  "name": "KompiTextAja",
-  "short_name": "KompiTextAja",
-  "start_url": "https://kompitext.blogspot.com/",
+  "name": "10Ayatcom",
+  "short_name": "10Ayatcom",
+  "start_url": "https://10Ayatcom.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#C51162",
-  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "theme_color": "#49c5c4",
+  "description": "media digital kristen melayani dengan teknologi terbaru saat ini",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-V5WpPU7QeL8/X_qwk0FUraI/AAAAAAAAD2I/sSbko9CfnyUYCp3JCL7bGwjhdw5uRqCOgCLcBGAsYHQ/s48/android-icon-48x48.png",
     "sizes": "48x48",
